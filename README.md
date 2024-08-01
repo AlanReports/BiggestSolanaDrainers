@@ -9,14 +9,14 @@ The Riddance Solana Drainer has illicitly obtained a total of $8,000,000 since J
 
 - Developer's Socials: [RiddanceDev](https://t.me/RiddanceDev)
 - Updates Channel: [RiddanceUpdates](https://t.me/RiddanceUpdates)
-- Further Breakdown: [RiddanceDrainer](https://github.com/AlanReports/RiddanceDrainer/blob/main/information.md)
+- Further Breakdown: [RiddanceDrainer](https://github.com/AlanReports/InformationRiddanceDrainer/blob/main/information.md)
 
 ### Endless Solana Drainer
 Endless Solana Drainer, formerly known as Rainbow Drainer, is another scam-as-a-service operation, taking between 15% and 20% of the stolen funds. The total financial damage caused by this drainer remains undetermined. It is generally avoided by scammers due to rumors of internal thefts (scamming their own clients), a higher commission rate than competitors, and a lack of features. Additionally, access to this drainer is restricted, requiring users to request permission.
 
 - Developer's Socials: [Endless](https://t.me/Endless)
 - Updates Channel: [EndlessDrainer](https://t.me/EndlessDrainer)
-- Further Breakdown: [EndlessDrainer](https://github.com/AlanReports/EndlessDrainer/blob/main/information.md)
+- Further Breakdown: [EndlessDrainer](https://github.com/AlanReports/InformationEndlessDrainer/blob/main/information.md)
 
 
 ### Advice To Stay Safe ⚠
